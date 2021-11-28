@@ -218,4 +218,4 @@ class Myntra_products:
 m = Myntra_products()
 m.getLinks()
 m.getProductInfo()
-#m.write_to_csv()
+m.write_to_csv()
